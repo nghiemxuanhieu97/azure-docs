@@ -17,7 +17,7 @@
 | Networking       |	Infrastructure |
 | Storage          |	Infrastructure |
 
-![layer-of-service.png](../../Resource/05.iaas-paas-and-saas/layer-of-service.png)
+![layer-of-service.png](../../../Resource/module-01-cloud-concepts-description/05.iaas-paas-and-saas/layer-of-service.png)
 
 # On-Premises
 - **Cloud provider** manages **nothing**
@@ -26,7 +26,7 @@
   - **Platfrom** - operating system, middleware, runtime
   - **Software** - data & applications
 
-![on-premises.png](../../Resource/05.iaas-paas-and-saas/on-premises.png)
+![on-premises.png](../../../Resource/module-01-cloud-concepts-description/05.iaas-paas-and-saas/on-premises.png)
 
 # Infrastructure as a Service
 - **Cloud provider** manages **Infrastructure**
@@ -36,7 +36,7 @@
   - **Software** - data & applications
 
 **Ex:** Virtual Machine, Virtual Network, Managed Disk
-![iaas.png](../../Resource/05.iaas-paas-and-saas/iaas.png)
+![iaas.png](../../../Resource/module-01-cloud-concepts-description/05.iaas-paas-and-saas/iaas.png)
 
 # Platform as a Service
 - **Cloud provider** manages **Infrastructure** & **Platform**
@@ -47,7 +47,7 @@
   
 **Ex:** Sql Service, App Service, Logic Apps, Function Apps
 
-![paas.png](../../Resource/05.iaas-paas-and-saas/paas.png)
+![paas.png](../../../Resource/module-01-cloud-concepts-description/05.iaas-paas-and-saas/paas.png)
 
 # Software as a Service
 - **Cloud provider** manages **everything**
@@ -58,4 +58,4 @@
   
 **Ex:** Outlook, Skype, OneDrive ...
 
-![saas.png](../../Resource/05.iaas-paas-and-saas/saas.png)
+![saas.png](../../../Resource/module-01-cloud-concepts-description/05.iaas-paas-and-saas/saas.png)

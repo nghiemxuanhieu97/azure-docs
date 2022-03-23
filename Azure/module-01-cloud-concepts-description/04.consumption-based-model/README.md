@@ -16,4 +16,4 @@ and will incur charges.
 has many smaller metrics that track its consumption to offer best possible pricing model. Those metrics are tracked on 
 very granular level.
 
-![consumption-based-service.png](../../Resource/04.consumption-based-model/consumption-based-service.png)
+![consumption-based-service.png](../../../Resource/module-01-cloud-concepts-description/04.consumption-based-model/consumption-based-service.png)

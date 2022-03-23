@@ -1,7 +1,7 @@
 # Question 1
 What is the name of the deployment model which allows for building applications by utilizing your own datacenter and 
 cloud provider Infrastructure.
-![hybrid-cloud.png](../../Resource/06.cloud-deployment-model/hybrid-cloud.png)
+![hybrid-cloud.png](../../../Resource/module-01-cloud-concepts-description/06.cloud-deployment-model/hybrid-cloud.png)
 - [ ] Public cloud
 - [x] Hybrid cloud
 - [ ] Private cloud

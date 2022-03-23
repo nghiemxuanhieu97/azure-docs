@@ -23,14 +23,14 @@
 - **High Availability** (Độ sẵn sàng cao): the ability to keep services running for *extended periods of time* (khoảng thời gian dài) with very little downtime.
     - *Availability* is a measure of system uptime for user/services. Availability = uptime / (uptime + downtime)
 
-![scability.png](../../Resource/01.cloud-computing-and-key-characteristics/scability.png)
+![scability.png](../../../Resource/module-01-cloud-concepts-description/01.cloud-computing-and-key-characteristics/scability.png)
 
-![elasticity.png](../../Resource/01.cloud-computing-and-key-characteristics/elasticity.png)
+![elasticity.png](../../../Resource/module-01-cloud-concepts-description/01.cloud-computing-and-key-characteristics/elasticity.png)
 
-![agility.png](../../Resource/01.cloud-computing-and-key-characteristics/agility.png)
+![agility.png](../../../Resource/module-01-cloud-concepts-description/01.cloud-computing-and-key-characteristics/agility.png)
 
-![fault-tolerance.png](../../Resource/01.cloud-computing-and-key-characteristics/fault-tolerance.png)
+![fault-tolerance.png](../../../Resource/module-01-cloud-concepts-description/01.cloud-computing-and-key-characteristics/fault-tolerance.png)
 
-![disaster-recovery.png](../../Resource/01.cloud-computing-and-key-characteristics/disaster-recovery.png)
+![disaster-recovery.png](../../../Resource/module-01-cloud-concepts-description/01.cloud-computing-and-key-characteristics/disaster-recovery.png)
 
-![high-availability.png](../../Resource/01.cloud-computing-and-key-characteristics/high-availability.png)
+![high-availability.png](../../../Resource/module-01-cloud-concepts-description/01.cloud-computing-and-key-characteristics/high-availability.png)
